@@ -1,0 +1,88 @@
+
+    
+
+.container-1{
+    display: flex;
+    background-color:DodgerBlue;
+    text-align: center;
+
+}
+.container-2{
+    display: flex;
+    background-color:DodgerBlue;
+    text-align: center; 
+}
+.container-3{
+  display: flex;
+  background-color:DodgerBlue;
+  
+}
+.container-3 img{
+  width:170px;
+  height:160px;
+
+}
+.container-4{
+    display: flex;
+    background-color:DodgerBlue;
+    
+    
+}
+.number{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    flex-basis: 187px
+  }
+.items{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    flex-basis: 187px
+  }
+  
+  .imeges{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    flex-basis:187px
+  }
+
+  .price{
+    background-color: #f1f1f1;
+    margin: 10px;
+    padding: 20px;
+    font-size: 30px;
+    flex-basis: 187px;
+    color: red;
+
+
+  }
+  .first{
+    width: 100%;
+    height:100px;
+}
+.second{
+  width: 100%;
+  height:100px;
+}
+.three{
+  width: 100%;
+  height:230px;
+}
+.fourd{
+  width: 100%;
+  height:100px; 
+}
+
+
+
+
+
+
+
+
+  
+ 
